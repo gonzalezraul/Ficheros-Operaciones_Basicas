@@ -1,0 +1,6 @@
+12A, Juan Pérez, Economy, Madrid
+14B, María López, Business, París
+21C, Carlos García, Economy, Madrid
+05D, Ana Sánchez, Business, Londres
+19E, Luis Gómez, Economy, París
+08F, Sofía Vargas, Economy, Londres
