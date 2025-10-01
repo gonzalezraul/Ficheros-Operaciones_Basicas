@@ -1,1 +1,3 @@
-[2025-09-26 17:42:08.460728] Isaac
+12A, Juan Pérez, Economy
+14B, María López, Business
+21C, Carlos García, Economy
