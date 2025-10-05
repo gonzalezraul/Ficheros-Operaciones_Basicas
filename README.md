@@ -171,8 +171,8 @@ Detectar y registrar líneas inválidas en el fichero maestro.
 ## 👤 Autor
 
 **Raúl González // Itai Picornell // Isaac Cabrera**  
-1º DAM — Desarrollo de Aplicaciones Multiplataforma  
-Año académico: 2024–2025  
+2º DAM — Desarrollo de Aplicaciones Multiplataforma  
+Año académico: 2025–2026  
 
 ---
 
