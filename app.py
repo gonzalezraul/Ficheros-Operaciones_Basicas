@@ -221,7 +221,7 @@ def run_parte3():
 def clean():
     if os.path.isdir(DOCUMENTS_DIR):
         shutil.rmtree(DOCUMENTS_DIR, ignore_errors=True)
-        print("✔ Carpeta 'Reservas' eliminada.")
+        print("Carpeta 'Reservas' eliminada.")
     else:
         print("Nada que limpiar.")
 
